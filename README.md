@@ -10,4 +10,4 @@ Feel free to contact me via <a href="mailto:i@tenire.com">Email</a> or [Telegram
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Tenire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Cappppper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
