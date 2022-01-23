@@ -1,16 +1,13 @@
-### Hi there 👋
+## 💡 About
 
-<!--
-**cappppper/cappppper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! Here is Cappppper. I mainly focus on common Computer Vision topics including object detection and image segmentation, etc. 
 
-Here are some ideas to get you started:
+When I'm free, I enjoy [📖 reading](), watching [🎬 movies]() and [📺 anime](), and listening to [🎧 music](). I also work on useful/useless side projects from time to time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're interested, please checkout my personal [✏️ blog](https://www.tenire.com) where I share my ordinary yet joyful life. 
+
+Feel free to contact me via <a href="mailto:i@tenire.com">Email</a> or [Telegram](https://t.me/itenire).
+
+## 📊 Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Tenire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
